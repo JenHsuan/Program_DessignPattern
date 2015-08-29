@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>C:\Emgu\emgucv-windows-universal-cuda 2.4.10.1940\bin\x86\;C:\Emgu\emgucv-windows-universal-cuda 2.4.10.1940\bin\</ReferencePath>
+  </PropertyGroup>
+</Project>

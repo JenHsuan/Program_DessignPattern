@@ -1,0 +1,27 @@
+﻿<Window x:Class="FactoryPattern.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="620" Width="700" Loaded="Window_Loaded" BorderBrush="Black" Background="White">
+    <Grid Name="grid1" Width="747.5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="105*" />
+            <ColumnDefinition Width="573*" />
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="CAM" Height="100" HorizontalAlignment="Left" Margin="9,37.5,0,0" Name="CAM" VerticalAlignment="Top" Width="140" ContentStringFormat="" Grid.ColumnSpan="2"></GroupBox>
+        <Button HorizontalAlignment="Left" Margin="41,60,0,0" Name="Photo" Width="75" Click="Photo_Click" Grid.ColumnSpan="2" Height="22" VerticalAlignment="Top">Take Photo</Button>
+        <Button Height="23" HorizontalAlignment="Left" Margin="41,95,0,0" VerticalAlignment="Top" Width="75" Name="Video" Click="Video_Click" Grid.ColumnSpan="2">Video</Button>
+        <GroupBox Header="Photo" Name="PhotoBox" Width="140" HorizontalAlignment="Left" Margin="9,142.5,0,0" Grid.ColumnSpan="2" Height="134.5" VerticalAlignment="Top"></GroupBox>
+        <Button Height="22" HorizontalAlignment="Left" Margin="35,162.5,0,0" Name="RotatePhoto" VerticalAlignment="Top" Width="89" Click="RotatePhoto_Click" Grid.ColumnSpan="2">RotatePhoto</Button>
+        <Button Height="23" HorizontalAlignment="Left" Margin="35,187.5,0,0" Name="Canny" VerticalAlignment="Top" Width="86" Grid.ColumnSpan="2" Click="Canny_Click">Canny</Button>
+        <Button Height="23" Name="ZoomOut" Width="86" Click="ZoomOut_Click" HorizontalAlignment="Left" Margin="35,240,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2">Fuzzy</Button>
+        <Button Height="23" Margin="34,212.5,0,0" Name="GrayValue" VerticalAlignment="Top" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="86" Click="GrayValue_Click">Gray value</Button>
+        <TextBlock  ScrollViewer.VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="2" Height="141" Margin="18,0,37,5" Name="textBlock1" VerticalAlignment="Bottom" Background="WhiteSmoke" />
+        <Menu Grid.ColumnSpan="2" Height="30" Margin="10,5,0,0" Name="menu1" VerticalAlignment="Top" BorderBrush="Black">
+        <MenuItem Header="_File" FontSize="14">
+                <MenuItem Header="_Save" Click="SaveImage"/>
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+        </Menu><GroupBox Header="Product" HorizontalAlignment="Left" Margin="10,285,0,197.5" Name="Product" Width="139" Grid.ColumnSpan="2"><Button Height="22.5" Name="Wallpaper" Width="75" Click="Wallpaper_Click">Wallpaper</Button></GroupBox>
+    </Grid>
+</Window>

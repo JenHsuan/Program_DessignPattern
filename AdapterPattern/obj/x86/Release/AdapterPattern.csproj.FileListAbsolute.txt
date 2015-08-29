@@ -1,0 +1,69 @@
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\AdapterPattern.exe
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\AdapterPattern.pdb
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.dll
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.ML.dll
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.UI.dll
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.Util.dll
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\ZedGraph.dll
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.Util.xml
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.xml
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.ML.xml
+F:\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.UI.xml
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\ResolveAssemblyReference.cache
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\Window1.baml
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\Window2.baml
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\Window1.g.cs
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\Window2.g.cs
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\App.g.cs
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern_MarkupCompile.cache
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.g.resources
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.Properties.Resources.resources
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.csproj.GenerateResource.Cache
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.exe
+F:\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.pdb
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.exe
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.pdb
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\AdapterPattern.exe
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\AdapterPattern.pdb
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.dll
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.ML.dll
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.UI.dll
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.Util.dll
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\ZedGraph.dll
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.Util.xml
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.xml
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.ML.xml
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.UI.xml
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window1.baml
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window2.baml
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window1.g.cs
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window2.g.cs
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\App.g.cs
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern_MarkupCompile.cache
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.g.resources
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.Properties.Resources.resources
+C:\SEAN\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.csproj.GenerateResource.Cache
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.exe
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.pdb
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\AdapterPattern.exe
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\AdapterPattern.pdb
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.ML.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.UI.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.Util.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\ZedGraph.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.Util.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.ML.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\bin\x86\Release\Emgu.CV.UI.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window1.baml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window2.baml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window1.g.cs
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\Window2.g.cs
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\App.g.cs
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern_MarkupCompile.cache
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.g.resources
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.Properties.Resources.resources
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\AdapterPattern\obj\x86\Release\AdapterPattern.csproj.GenerateResource.Cache

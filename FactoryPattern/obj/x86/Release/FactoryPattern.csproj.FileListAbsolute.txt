@@ -1,0 +1,66 @@
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\ResolveAssemblyReference.cache
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\Window1.baml
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\Window1.g.cs
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\App.g.cs
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern_Content.g.cs
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern_MarkupCompile.cache
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.g.resources
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.Properties.Resources.resources
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.csproj.GenerateResource.Cache
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\FactoryPattern.exe
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\FactoryPattern.pdb
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.dll
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.ML.dll
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.UI.dll
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.Util.dll
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\ZedGraph.dll
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.Util.xml
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.xml
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.ML.xml
+F:\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.UI.xml
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.exe
+F:\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.pdb
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\FactoryPattern.exe
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\FactoryPattern.pdb
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.dll
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.ML.dll
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.UI.dll
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.Util.dll
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\ZedGraph.dll
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.Util.xml
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.xml
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.ML.xml
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.UI.xml
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\Window1.baml
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\Window1.g.cs
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\App.g.cs
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern_Content.g.cs
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern_MarkupCompile.cache
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.g.resources
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.Properties.Resources.resources
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.csproj.GenerateResource.Cache
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.exe
+C:\SEAN\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.pdb
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\FactoryPattern.exe
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\FactoryPattern.pdb
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.ML.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.UI.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.Util.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\ZedGraph.dll
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.Util.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.ML.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\bin\x86\Release\Emgu.CV.UI.xml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\Window1.baml
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\Window1.g.cs
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\App.g.cs
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern_Content.g.cs
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern_MarkupCompile.cache
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.g.resources
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.Properties.Resources.resources
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.csproj.GenerateResource.Cache
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.exe
+C:\SEAN\SeanHsieh-MAC-\02-Study group\DecoratorPattern\FactoryPattern\obj\x86\Release\FactoryPattern.pdb
